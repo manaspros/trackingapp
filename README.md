@@ -1,9 +1,5 @@
 # Expense Tracker App
 
-## Description
-This is a cross-platform Expense Tracking application built using React Native. It allows users to log, track, and categorize their expenses. The app utilizes Firebase for backend data storage and Redux for state management. The data fetched from Firebase is synced and stored locally using Redux, ensuring smooth and responsive user interactions.
-
----
 
 ## Features
 - Add, edit, and delete expenses
