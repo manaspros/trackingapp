@@ -1,31 +1,30 @@
-# Expense Tracker App
+# 💰 Expense Tracker App
 
-
-## Features
-- Add, edit, and delete expenses
-- Categorize expenses
-- View expense history
-- Real-time data synchronization with Firebase
-- Local state management using Redux for better performance
+## 🌟 Features
+- ➕ Add, ✏️ Edit, and ❌ Delete expenses
+- 🏷️ Categorize expenses
+- 📜 View expense history
+- 🔄 Real-time data synchronization with Firebase
+- ⚡ Local state management using Redux for better performance
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 - **Frontend**: React Native
 - **State Management**: Redux
 - **Backend**: Firebase (Realtime Database or Firestore)
 
 ---
 
-## Getting Started
+## 🚀 Getting Started
 
-### Prerequisites
+### ✅ Prerequisites
 Ensure you have the following installed on your system:
 - Node.js
 - React Native CLI or Expo CLI
 - Firebase account
 
-### Installation
+### 📥 Installation
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/expense-tracker-app.git
@@ -39,12 +38,12 @@ Ensure you have the following installed on your system:
    npm install
    ```
 
-4. Configure Firebase:
+4. 🔧 Configure Firebase:
    - Go to the Firebase Console.
    - Create a new project and set up a Realtime Database or Firestore.
    - Replace the `firebaseConfig` in the app with your Firebase project credentials.
 
-5. Run the application:
+5. ▶️ Run the application:
    ```bash
    npm start
    ```
@@ -55,7 +54,7 @@ Ensure you have the following installed on your system:
 
 ---
 
-## Folder Structure
+## 📂 Folder Structure
 ```
 expense-tracker-app/
 ├── src/
@@ -69,15 +68,20 @@ expense-tracker-app/
 ├── README.md               # Documentation
 ```
 
+
 ---
 
-## Contributing
+## 🤝 Contributing
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
 
+---
+
+## 📜 License
+This project is licensed under the MIT License.
 
 ---
 
-## Acknowledgements
+## 🙏 Acknowledgements
 - React Native documentation
 - Firebase documentation
 - Redux documentation
